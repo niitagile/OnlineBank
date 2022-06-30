@@ -11,7 +11,7 @@ public class Demo {
 		System.out.println(emp);
 		System.out.println("Hell All !!! New Update");
 		System.out.println("First Update");
-		System.out.println("First Update");
+		System.out.println("Second Update");
 		
 	}
 
